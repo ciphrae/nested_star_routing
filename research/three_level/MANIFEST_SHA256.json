@@ -1,0 +1,17 @@
+{
+  "README.md": "2bf34e59e05d27e092c8258cece4e299ddcdfc2594078dae3d27159188e4cff1",
+  "prototype/check_peak_credit.py": "0c9e144137246482c04bf71c0dc063597f39fd0e7cdeb0f81e571c00c78746d5",
+  "prototype/check_scales.py": "84b42bb9b192f0426f4f94383d0cebd3d00b42e948725729ef80c978a6fdd26b",
+  "prototype/checkpoint_replay.py": "7e471dd908a2d9a968d34e9947a55b94345beb965dd7f399a54abd8815c63398",
+  "prototype/three_level_replay.py": "fdb90356970d203aaefd6da13b8d316c5728f7e8cf0f1e7f4dc74b118f62020d",
+  "prototype/two_level_primitives.py": "0f1a435c003ea536249ab573bcea8c29492a7e034eae039fd8c2d733095f052c",
+  "results/peak_credit_checks.json": "4fb91639f88825d2148e7398da2a78e0c4bd1f6531e98eb63713b249ba0c0a12",
+  "results/replay_fanout2_seed731.json": "80f013ddd487126de7192511f18f7f4a915e2cc1da9eb0f3955181d148f0ca3b",
+  "results/replay_first.json": "ba1d3f06c1f6a0f7c6b016bb95198ca7f69cb30b095e6647a5eccb4848e0bbe2",
+  "results/replay_leaf_branching_seed2026.json": "9737119a17080976fc644cacfddebbccfebadce242e8cc1e9e559fed29d8ca31",
+  "results/replay_multibranch_seed2026.json": "3da5f108967bf650e0fc579e5d65146e186e5cbb02266cfe3ce3132ab50c7071",
+  "results/scale_checks.json": "de424a5f0f79447d2ac8e380ef16d5f2bf2fe6c6d03ae99d43a5f1eaf40791ea",
+  "results/summary.json": "74cd76037123c23c88bebcf13e6f1c72162846664ef60238041391c884f17c61",
+  "theory/PEAK_CREDIT_LEMMA.md": "ebec926173617fb0914ea9baa503e0e7626a83a20a27c686a6970b70256dca36",
+  "theory/THREE_LEVEL_CONSTRUCTION.md": "ea139d9524f836421beb8e820d7a10e8caecfd4e97497f0cbffd9f250819c759"
+}

@@ -1,0 +1,95 @@
+{
+  "status": "All completed tests listed here passed. No universal three-level theorem claimed.",
+  "replays": [
+    {
+      "file": "replay_fanout2_seed731.json",
+      "n": 412,
+      "large_regions": 4,
+      "small_regions": 16,
+      "leaf_block_side": 10,
+      "root_main_services": 89506,
+      "middle_services": 18737,
+      "leaf_services": 1152,
+      "expanded_adjacent_slides": 26789025,
+      "productive_lane_cost_by_level": [
+        2683080,
+        2478784,
+        10240
+      ],
+      "exact_target_reached": true
+    },
+    {
+      "file": "replay_first.json",
+      "n": 256,
+      "large_regions": 4,
+      "small_regions": 4,
+      "leaf_block_side": 10,
+      "root_main_services": 20398,
+      "middle_services": 3565,
+      "leaf_services": 288,
+      "expanded_adjacent_slides": 5204619,
+      "productive_lane_cost_by_level": [
+        609840,
+        99600,
+        2560
+      ],
+      "exact_target_reached": true
+    },
+    {
+      "file": "replay_leaf_branching_seed2026.json",
+      "n": 324,
+      "large_regions": 4,
+      "small_regions": 4,
+      "leaf_block_side": 18,
+      "root_main_services": 44538,
+      "middle_services": 16349,
+      "leaf_services": 3919,
+      "expanded_adjacent_slides": 13775241,
+      "productive_lane_cost_by_level": [
+        1334040,
+        483120,
+        241920
+      ],
+      "exact_target_reached": true
+    },
+    {
+      "file": "replay_multibranch_seed2026.json",
+      "n": 548,
+      "large_regions": 4,
+      "small_regions": 16,
+      "leaf_block_side": 18,
+      "root_main_services": 189466,
+      "middle_services": 75348,
+      "leaf_services": 18664,
+      "expanded_adjacent_slides": 79780587,
+      "productive_lane_cost_by_level": [
+        5681880,
+        15891648,
+        967680
+      ],
+      "exact_target_reached": true
+    }
+  ],
+  "credit_counter_checks": {
+    "cases": 40,
+    "states": 75538,
+    "transitions": 374921,
+    "all_passed": true
+  },
+  "rounded_scale_checks": {
+    "cases": 223,
+    "all_passed": true
+  },
+  "base_primitive_source": {
+    "archive": "sliding_puzzle_12_5_lean_v0_1(3).zip",
+    "path": "sliding_puzzle_12_5/mathematics/audit_nested_execution.py",
+    "copy": "prototype/two_level_primitives.py",
+    "sha256": "0f1a435c003ea536249ab573bcea8c29492a7e034eae039fd8c2d733095f052c"
+  },
+  "limitations": [
+    "Local three-cycles and even sorting are endpoint macros, not fully expanded slide lists.",
+    "Replays start from reachable prepared configurations.",
+    "Compact replay layouts are not the proposed asymptotic rounded dimensions.",
+    "No new Lean files or Lean compilation."
+  ]
+}

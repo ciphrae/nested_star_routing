@@ -1,0 +1,20 @@
+name = "nested_routing"
+version = "0.1.0"
+defaultTargets = ["NestedRouting"]
+
+[[require]]
+name = "mathlib"
+scope = "leanprover-community"
+rev = "v4.33.1"
+
+[[lean_lib]]
+name = "MathlibRoots"
+
+[[lean_lib]]
+name = "NestedRouting"
+globs = ["NestedRouting.+"]
+
+# Statement and proof for leanprover/comparator (see comparator.json). Not a default target.
+[[lean_lib]]
+name = "Comparator"
+globs = ["Comparator.+"]

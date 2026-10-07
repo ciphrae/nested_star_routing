@@ -1,0 +1,62 @@
+{
+  "n": 256,
+  "root_fanout_per_quadrant": 1,
+  "middle_fanout_per_side": 1,
+  "large_region_side": 80,
+  "small_region_side": 38,
+  "leaf_block_side": 10,
+  "large_regions": 4,
+  "small_regions": 4,
+  "real_tiles": 20328,
+  "root_main_services": 20398,
+  "root_drain_services": 52,
+  "middle_services": 3565,
+  "leaf_services": 288,
+  "expanded_adjacent_slides": 5204619,
+  "three_cycle_endpoint_macros": 104338,
+  "even_sort_endpoint_macros": 13,
+  "charged_length_upper_bound": 4183879019,
+  "productive_lane_cost_by_level": [
+    609840,
+    99600,
+    2560
+  ],
+  "median_cubic_allowance": 16777216,
+  "large_request_cases": {
+    "EC": 3320,
+    "requests": 20453,
+    "AC": 3320,
+    "direct": 17008,
+    "ER": 17008,
+    "AR": 17008,
+    "correction": 100,
+    "rescue": 21
+  },
+  "small_request_cases": {
+    "EC": 80,
+    "requests": 3569,
+    "direct": 3409,
+    "ER": 3240,
+    "AR": 3240,
+    "AC": 80,
+    "correction": 15,
+    "rescue": 24
+  },
+  "large_max_leads": [
+    32,
+    31,
+    31,
+    31
+  ],
+  "middle_sum_max_credits": [
+    32,
+    31,
+    31,
+    31
+  ],
+  "exact_target_reached": true,
+  "single_board_single_blank": true,
+  "scope": "Finite replay with unexpanded, proved endpoint macros. Not a universal proof or fully expanded TAS path.",
+  "seed": 125,
+  "seconds": 3.567
+}

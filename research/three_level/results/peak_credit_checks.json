@@ -1,0 +1,469 @@
+{
+  "scope": "Exhaustive finite counter model, not a universal or physical-slide proof.",
+  "cases": 40,
+  "states": 75538,
+  "transitions": 374921,
+  "all_passed": true,
+  "results": [
+    {
+      "population": [
+        1
+      ],
+      "total_credit_cap": 0,
+      "states": 3,
+      "transitions": 3,
+      "largest_observed_sum_of_peaks": 0,
+      "proved_allowance": "1"
+    },
+    {
+      "population": [
+        1
+      ],
+      "total_credit_cap": 1,
+      "states": 5,
+      "transitions": 5,
+      "largest_observed_sum_of_peaks": 1,
+      "proved_allowance": "2"
+    },
+    {
+      "population": [
+        1
+      ],
+      "total_credit_cap": 2,
+      "states": 5,
+      "transitions": 5,
+      "largest_observed_sum_of_peaks": 1,
+      "proved_allowance": "3"
+    },
+    {
+      "population": [
+        1
+      ],
+      "total_credit_cap": 3,
+      "states": 5,
+      "transitions": 5,
+      "largest_observed_sum_of_peaks": 1,
+      "proved_allowance": "4"
+    },
+    {
+      "population": [
+        1
+      ],
+      "total_credit_cap": 4,
+      "states": 5,
+      "transitions": 5,
+      "largest_observed_sum_of_peaks": 1,
+      "proved_allowance": "5"
+    },
+    {
+      "population": [
+        2
+      ],
+      "total_credit_cap": 0,
+      "states": 6,
+      "transitions": 9,
+      "largest_observed_sum_of_peaks": 0,
+      "proved_allowance": "1"
+    },
+    {
+      "population": [
+        2
+      ],
+      "total_credit_cap": 1,
+      "states": 11,
+      "transitions": 18,
+      "largest_observed_sum_of_peaks": 1,
+      "proved_allowance": "2"
+    },
+    {
+      "population": [
+        2
+      ],
+      "total_credit_cap": 2,
+      "states": 14,
+      "transitions": 21,
+      "largest_observed_sum_of_peaks": 2,
+      "proved_allowance": "3"
+    },
+    {
+      "population": [
+        2
+      ],
+      "total_credit_cap": 3,
+      "states": 14,
+      "transitions": 21,
+      "largest_observed_sum_of_peaks": 2,
+      "proved_allowance": "4"
+    },
+    {
+      "population": [
+        2
+      ],
+      "total_credit_cap": 4,
+      "states": 14,
+      "transitions": 21,
+      "largest_observed_sum_of_peaks": 2,
+      "proved_allowance": "5"
+    },
+    {
+      "population": [
+        1,
+        1
+      ],
+      "total_credit_cap": 0,
+      "states": 9,
+      "transitions": 18,
+      "largest_observed_sum_of_peaks": 0,
+      "proved_allowance": "2"
+    },
+    {
+      "population": [
+        1,
+        1
+      ],
+      "total_credit_cap": 1,
+      "states": 24,
+      "transitions": 44,
+      "largest_observed_sum_of_peaks": 2,
+      "proved_allowance": "7/2"
+    },
+    {
+      "population": [
+        1,
+        1
+      ],
+      "total_credit_cap": 2,
+      "states": 25,
+      "transitions": 48,
+      "largest_observed_sum_of_peaks": 2,
+      "proved_allowance": "5"
+    },
+    {
+      "population": [
+        1,
+        1
+      ],
+      "total_credit_cap": 3,
+      "states": 25,
+      "transitions": 48,
+      "largest_observed_sum_of_peaks": 2,
+      "proved_allowance": "13/2"
+    },
+    {
+      "population": [
+        1,
+        1
+      ],
+      "total_credit_cap": 4,
+      "states": 25,
+      "transitions": 48,
+      "largest_observed_sum_of_peaks": 2,
+      "proved_allowance": "8"
+    },
+    {
+      "population": [
+        2,
+        2
+      ],
+      "total_credit_cap": 0,
+      "states": 36,
+      "transitions": 104,
+      "largest_observed_sum_of_peaks": 0,
+      "proved_allowance": "2"
+    },
+    {
+      "population": [
+        2,
+        2
+      ],
+      "total_credit_cap": 1,
+      "states": 117,
+      "transitions": 342,
+      "largest_observed_sum_of_peaks": 2,
+      "proved_allowance": "7/2"
+    },
+    {
+      "population": [
+        2,
+        2
+      ],
+      "total_credit_cap": 2,
+      "states": 133,
+      "transitions": 378,
+      "largest_observed_sum_of_peaks": 3,
+      "proved_allowance": "5"
+    },
+    {
+      "population": [
+        2,
+        2
+      ],
+      "total_credit_cap": 3,
+      "states": 165,
+      "transitions": 454,
+      "largest_observed_sum_of_peaks": 4,
+      "proved_allowance": "13/2"
+    },
+    {
+      "population": [
+        2,
+        2
+      ],
+      "total_credit_cap": 4,
+      "states": 166,
+      "transitions": 458,
+      "largest_observed_sum_of_peaks": 4,
+      "proved_allowance": "8"
+    },
+    {
+      "population": [
+        1,
+        2,
+        3
+      ],
+      "total_credit_cap": 0,
+      "states": 180,
+      "transitions": 719,
+      "largest_observed_sum_of_peaks": 0,
+      "proved_allowance": "3"
+    },
+    {
+      "population": [
+        1,
+        2,
+        3
+      ],
+      "total_credit_cap": 1,
+      "states": 956,
+      "transitions": 3684,
+      "largest_observed_sum_of_peaks": 3,
+      "proved_allowance": "29/6"
+    },
+    {
+      "population": [
+        1,
+        2,
+        3
+      ],
+      "total_credit_cap": 2,
+      "states": 1079,
+      "transitions": 4216,
+      "largest_observed_sum_of_peaks": 4,
+      "proved_allowance": "20/3"
+    },
+    {
+      "population": [
+        1,
+        2,
+        3
+      ],
+      "total_credit_cap": 3,
+      "states": 1271,
+      "transitions": 4758,
+      "largest_observed_sum_of_peaks": 6,
+      "proved_allowance": "17/2"
+    },
+    {
+      "population": [
+        1,
+        2,
+        3
+      ],
+      "total_credit_cap": 4,
+      "states": 1374,
+      "transitions": 5113,
+      "largest_observed_sum_of_peaks": 6,
+      "proved_allowance": "31/3"
+    },
+    {
+      "population": [
+        2,
+        2,
+        2
+      ],
+      "total_credit_cap": 0,
+      "states": 216,
+      "transitions": 906,
+      "largest_observed_sum_of_peaks": 0,
+      "proved_allowance": "3"
+    },
+    {
+      "population": [
+        2,
+        2,
+        2
+      ],
+      "total_credit_cap": 1,
+      "states": 1215,
+      "transitions": 4977,
+      "largest_observed_sum_of_peaks": 3,
+      "proved_allowance": "29/6"
+    },
+    {
+      "population": [
+        2,
+        2,
+        2
+      ],
+      "total_credit_cap": 2,
+      "states": 1359,
+      "transitions": 5661,
+      "largest_observed_sum_of_peaks": 4,
+      "proved_allowance": "20/3"
+    },
+    {
+      "population": [
+        2,
+        2,
+        2
+      ],
+      "total_credit_cap": 3,
+      "states": 1559,
+      "transitions": 6189,
+      "largest_observed_sum_of_peaks": 5,
+      "proved_allowance": "17/2"
+    },
+    {
+      "population": [
+        2,
+        2,
+        2
+      ],
+      "total_credit_cap": 4,
+      "states": 1828,
+      "transitions": 7179,
+      "largest_observed_sum_of_peaks": 6,
+      "proved_allowance": "31/3"
+    },
+    {
+      "population": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "total_credit_cap": 0,
+      "states": 81,
+      "transitions": 324,
+      "largest_observed_sum_of_peaks": 0,
+      "proved_allowance": "4"
+    },
+    {
+      "population": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "total_credit_cap": 1,
+      "states": 512,
+      "transitions": 1708,
+      "largest_observed_sum_of_peaks": 4,
+      "proved_allowance": "73/12"
+    },
+    {
+      "population": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "total_credit_cap": 2,
+      "states": 608,
+      "transitions": 2152,
+      "largest_observed_sum_of_peaks": 4,
+      "proved_allowance": "49/6"
+    },
+    {
+      "population": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "total_credit_cap": 3,
+      "states": 624,
+      "transitions": 2248,
+      "largest_observed_sum_of_peaks": 4,
+      "proved_allowance": "41/4"
+    },
+    {
+      "population": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "total_credit_cap": 4,
+      "states": 625,
+      "transitions": 2256,
+      "largest_observed_sum_of_peaks": 4,
+      "proved_allowance": "37/3"
+    },
+    {
+      "population": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "total_credit_cap": 0,
+      "states": 1296,
+      "transitions": 7048,
+      "largest_observed_sum_of_peaks": 0,
+      "proved_allowance": "4"
+    },
+    {
+      "population": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "total_credit_cap": 1,
+      "states": 12393,
+      "transitions": 64740,
+      "largest_observed_sum_of_peaks": 4,
+      "proved_allowance": "73/12"
+    },
+    {
+      "population": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "total_credit_cap": 2,
+      "states": 14433,
+      "transitions": 77508,
+      "largest_observed_sum_of_peaks": 5,
+      "proved_allowance": "49/6"
+    },
+    {
+      "population": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "total_credit_cap": 3,
+      "states": 15489,
+      "transitions": 81732,
+      "largest_observed_sum_of_peaks": 6,
+      "proved_allowance": "41/4"
+    },
+    {
+      "population": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "total_credit_cap": 4,
+      "states": 17633,
+      "transitions": 89748,
+      "largest_observed_sum_of_peaks": 7,
+      "proved_allowance": "37/3"
+    }
+  ]
+}
